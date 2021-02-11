@@ -20,4 +20,18 @@ class OrderFlowOfferClientV1
         return $response;
     }
 
+    /**
+     * Gets Order flows Offers  for a order flow
+     * @param OrderFlowOffer $orderFlowOffer
+     * @return \Illuminate\Http\Client\Response
+     */
+    public function offers(int $order_flow_id) {
+        $response = Http::timeout(30)
+            ->withBasicAuth(env('SPARAV_ORDERFLOW_API_AUTH_USERNAME'), env('SPARAV_ORDERFLOW_API_AUTH_PASSWORD'))
+            ->get("http://sparavorderflowapiprod.azurewebsites.net/api/v1/flow/offer/{$order_flow_id}");
+        return $response;
+    }
+
+
+
 }
