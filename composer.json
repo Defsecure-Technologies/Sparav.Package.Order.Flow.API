@@ -6,7 +6,7 @@
     }
   },
 
-  "name": "sparav/order",
+  "name": "sparav/orderflow",
   "description": "Sparav Order FLOW API",
   "type": "Composer",
   "license": "MIT",
