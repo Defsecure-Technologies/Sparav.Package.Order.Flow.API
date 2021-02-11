@@ -32,6 +32,4 @@ class OrderFlowOfferClientV1
         return $response;
     }
 
-
-
 }

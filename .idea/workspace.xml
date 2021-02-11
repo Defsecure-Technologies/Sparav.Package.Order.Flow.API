@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4298d35a-d186-41cd-a741-1974ef595c8d" name="Default Changelist" comment="...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OrderFlowOfferClientV1.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderFlowOfferClientV1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
       <updated>1613054447025</updated>
       <workItem from="1613054448195" duration="28000" />
       <workItem from="1613054851350" duration="13000" />
-      <workItem from="1613055899101" duration="80000" />
+      <workItem from="1613055899101" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1613054468869</created>
@@ -54,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613054857360</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="...">
+      <created>1613055983868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613055983868</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,8 +79,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="..." />
     <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
