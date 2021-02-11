@@ -1,0 +1,17 @@
+{
+
+  "autoload": {
+    "psr-4": {
+      "Sparav\\OrderFlow\\": "src"
+    }
+  },
+
+  "name": "sparav/order",
+  "description": "Sparav Order FLOW API",
+  "type": "Composer",
+  "license": "MIT",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "require": {}
+
+}
